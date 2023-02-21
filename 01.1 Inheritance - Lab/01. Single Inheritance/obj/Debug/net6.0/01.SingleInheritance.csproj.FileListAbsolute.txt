@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Inheritance-Lab\01. Single Inheritance\bin\Debug\net6.0\01.SingleInheritance.exe
+C:\Users\User\source\repos\Inheritance-Lab\01. Single Inheritance\bin\Debug\net6.0\01.SingleInheritance.deps.json
+C:\Users\User\source\repos\Inheritance-Lab\01. Single Inheritance\bin\Debug\net6.0\01.SingleInheritance.runtimeconfig.json
+C:\Users\User\source\repos\Inheritance-Lab\01. Single Inheritance\bin\Debug\net6.0\01.SingleInheritance.dll
+C:\Users\User\source\repos\Inheritance-Lab\01. Single Inheritance\bin\Debug\net6.0\01.SingleInheritance.pdb
+C:\Users\User\source\repos\Inheritance-Lab\01. Single Inheritance\obj\Debug\net6.0\01.SingleInheritance.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Inheritance-Lab\01. Single Inheritance\obj\Debug\net6.0\01.SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Inheritance-Lab\01. Single Inheritance\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Inheritance-Lab\01. Single Inheritance\obj\Debug\net6.0\01.SingleInheritance.AssemblyInfo.cs
+C:\Users\User\source\repos\Inheritance-Lab\01. Single Inheritance\obj\Debug\net6.0\01.SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Inheritance-Lab\01. Single Inheritance\obj\Debug\net6.0\01.SingleInheritance.dll
+C:\Users\User\source\repos\Inheritance-Lab\01. Single Inheritance\obj\Debug\net6.0\refint\01.SingleInheritance.dll
+C:\Users\User\source\repos\Inheritance-Lab\01. Single Inheritance\obj\Debug\net6.0\01.SingleInheritance.pdb
+C:\Users\User\source\repos\Inheritance-Lab\01. Single Inheritance\obj\Debug\net6.0\01.SingleInheritance.genruntimeconfig.cache
+C:\Users\User\source\repos\Inheritance-Lab\01. Single Inheritance\obj\Debug\net6.0\ref\01.SingleInheritance.dll

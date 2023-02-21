@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Inheritance-Lab\04. Random List\bin\Debug\net6.0\04.RandomList.exe
+C:\Users\User\source\repos\Inheritance-Lab\04. Random List\bin\Debug\net6.0\04.RandomList.deps.json
+C:\Users\User\source\repos\Inheritance-Lab\04. Random List\bin\Debug\net6.0\04.RandomList.runtimeconfig.json
+C:\Users\User\source\repos\Inheritance-Lab\04. Random List\bin\Debug\net6.0\04.RandomList.dll
+C:\Users\User\source\repos\Inheritance-Lab\04. Random List\bin\Debug\net6.0\04.RandomList.pdb
+C:\Users\User\source\repos\Inheritance-Lab\04. Random List\obj\Debug\net6.0\04.RandomList.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Inheritance-Lab\04. Random List\obj\Debug\net6.0\04.RandomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Inheritance-Lab\04. Random List\obj\Debug\net6.0\04.RandomList.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Inheritance-Lab\04. Random List\obj\Debug\net6.0\04.RandomList.AssemblyInfo.cs
+C:\Users\User\source\repos\Inheritance-Lab\04. Random List\obj\Debug\net6.0\04.RandomList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Inheritance-Lab\04. Random List\obj\Debug\net6.0\04.RandomList.dll
+C:\Users\User\source\repos\Inheritance-Lab\04. Random List\obj\Debug\net6.0\refint\04.RandomList.dll
+C:\Users\User\source\repos\Inheritance-Lab\04. Random List\obj\Debug\net6.0\04.RandomList.pdb
+C:\Users\User\source\repos\Inheritance-Lab\04. Random List\obj\Debug\net6.0\04.RandomList.genruntimeconfig.cache
+C:\Users\User\source\repos\Inheritance-Lab\04. Random List\obj\Debug\net6.0\ref\04.RandomList.dll
