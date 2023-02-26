@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_01._Persons</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CustomLinkedList">
+      <HintPath>..\..\Generics - Exercise\09.CustomLinkedList\bin\Debug\net6.0\CustomLinkedList.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

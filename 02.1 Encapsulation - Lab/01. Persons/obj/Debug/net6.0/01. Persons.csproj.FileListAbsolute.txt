@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\bin\Debug\net6.0\01. Persons.exe
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\bin\Debug\net6.0\01. Persons.deps.json
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\bin\Debug\net6.0\01. Persons.runtimeconfig.json
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\bin\Debug\net6.0\01. Persons.dll
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\bin\Debug\net6.0\01. Persons.pdb
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\bin\Debug\net6.0\CustomLinkedList.dll
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\bin\Debug\net6.0\CustomLinkedList.pdb
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\obj\Debug\net6.0\01. Persons.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\obj\Debug\net6.0\01. Persons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\obj\Debug\net6.0\01. Persons.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\obj\Debug\net6.0\01. Persons.AssemblyInfo.cs
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\obj\Debug\net6.0\01. Persons.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\obj\Debug\net6.0\01. Persons.csproj.CopyComplete
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\obj\Debug\net6.0\01. Persons.dll
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\obj\Debug\net6.0\refint\01. Persons.dll
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\obj\Debug\net6.0\01. Persons.pdb
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\obj\Debug\net6.0\01. Persons.genruntimeconfig.cache
+C:\Users\User\source\repos\Encapsulation - Lab\01. Persons\obj\Debug\net6.0\ref\01. Persons.dll
