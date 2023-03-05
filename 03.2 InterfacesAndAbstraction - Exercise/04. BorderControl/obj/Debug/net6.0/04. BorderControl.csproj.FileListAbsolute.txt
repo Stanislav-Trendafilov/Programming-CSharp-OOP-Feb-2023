@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\InterfacesAndAbstraction - Exercise\04. BorderControl\obj\Debug\net6.0\04. BorderControl.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\InterfacesAndAbstraction - Exercise\04. BorderControl\obj\Debug\net6.0\04. BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\InterfacesAndAbstraction - Exercise\04. BorderControl\obj\Debug\net6.0\04. BorderControl.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\InterfacesAndAbstraction - Exercise\04. BorderControl\obj\Debug\net6.0\04. BorderControl.AssemblyInfo.cs
+C:\Users\User\source\repos\InterfacesAndAbstraction - Exercise\04. BorderControl\obj\Debug\net6.0\04. BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InterfacesAndAbstraction - Exercise\04. BorderControl\bin\Debug\net6.0\04. BorderControl.exe
+C:\Users\User\source\repos\InterfacesAndAbstraction - Exercise\04. BorderControl\bin\Debug\net6.0\04. BorderControl.deps.json
+C:\Users\User\source\repos\InterfacesAndAbstraction - Exercise\04. BorderControl\bin\Debug\net6.0\04. BorderControl.runtimeconfig.json
+C:\Users\User\source\repos\InterfacesAndAbstraction - Exercise\04. BorderControl\bin\Debug\net6.0\04. BorderControl.dll
+C:\Users\User\source\repos\InterfacesAndAbstraction - Exercise\04. BorderControl\bin\Debug\net6.0\04. BorderControl.pdb
+C:\Users\User\source\repos\InterfacesAndAbstraction - Exercise\04. BorderControl\obj\Debug\net6.0\04. BorderControl.dll
+C:\Users\User\source\repos\InterfacesAndAbstraction - Exercise\04. BorderControl\obj\Debug\net6.0\refint\04. BorderControl.dll
+C:\Users\User\source\repos\InterfacesAndAbstraction - Exercise\04. BorderControl\obj\Debug\net6.0\04. BorderControl.pdb
+C:\Users\User\source\repos\InterfacesAndAbstraction - Exercise\04. BorderControl\obj\Debug\net6.0\04. BorderControl.genruntimeconfig.cache
+C:\Users\User\source\repos\InterfacesAndAbstraction - Exercise\04. BorderControl\obj\Debug\net6.0\ref\04. BorderControl.dll
