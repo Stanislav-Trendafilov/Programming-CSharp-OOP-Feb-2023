@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Polymorphism - Exercise\01. Vehicles\bin\Debug\net6.0\01. Vehicles.exe
+C:\Users\User\source\repos\Polymorphism - Exercise\01. Vehicles\bin\Debug\net6.0\01. Vehicles.deps.json
+C:\Users\User\source\repos\Polymorphism - Exercise\01. Vehicles\bin\Debug\net6.0\01. Vehicles.runtimeconfig.json
+C:\Users\User\source\repos\Polymorphism - Exercise\01. Vehicles\bin\Debug\net6.0\01. Vehicles.dll
+C:\Users\User\source\repos\Polymorphism - Exercise\01. Vehicles\bin\Debug\net6.0\01. Vehicles.pdb
+C:\Users\User\source\repos\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\01. Vehicles.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\01. Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\01. Vehicles.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\01. Vehicles.AssemblyInfo.cs
+C:\Users\User\source\repos\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\01. Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\01. Vehicles.dll
+C:\Users\User\source\repos\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\refint\01. Vehicles.dll
+C:\Users\User\source\repos\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\01. Vehicles.pdb
+C:\Users\User\source\repos\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\01. Vehicles.genruntimeconfig.cache
+C:\Users\User\source\repos\Polymorphism - Exercise\01. Vehicles\obj\Debug\net6.0\ref\01. Vehicles.dll
