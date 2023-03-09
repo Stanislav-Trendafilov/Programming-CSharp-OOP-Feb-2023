@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\02. EnterNumbers\bin\Debug\net6.0\02. EnterNumbers.exe
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\02. EnterNumbers\bin\Debug\net6.0\02. EnterNumbers.deps.json
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\02. EnterNumbers\bin\Debug\net6.0\02. EnterNumbers.runtimeconfig.json
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\02. EnterNumbers\bin\Debug\net6.0\02. EnterNumbers.dll
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\02. EnterNumbers\bin\Debug\net6.0\02. EnterNumbers.pdb
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\02. EnterNumbers\obj\Debug\net6.0\02. EnterNumbers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\02. EnterNumbers\obj\Debug\net6.0\02. EnterNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\02. EnterNumbers\obj\Debug\net6.0\02. EnterNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\02. EnterNumbers\obj\Debug\net6.0\02. EnterNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\02. EnterNumbers\obj\Debug\net6.0\02. EnterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\02. EnterNumbers\obj\Debug\net6.0\02. EnterNumbers.dll
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\02. EnterNumbers\obj\Debug\net6.0\refint\02. EnterNumbers.dll
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\02. EnterNumbers\obj\Debug\net6.0\02. EnterNumbers.pdb
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\02. EnterNumbers\obj\Debug\net6.0\02. EnterNumbers.genruntimeconfig.cache
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\02. EnterNumbers\obj\Debug\net6.0\ref\02. EnterNumbers.dll

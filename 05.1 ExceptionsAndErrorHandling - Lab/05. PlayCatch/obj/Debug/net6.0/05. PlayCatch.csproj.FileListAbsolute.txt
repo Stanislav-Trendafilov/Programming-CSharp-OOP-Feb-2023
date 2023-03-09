@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\05. PlayCatch\bin\Debug\net6.0\05. PlayCatch.exe
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\05. PlayCatch\bin\Debug\net6.0\05. PlayCatch.deps.json
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\05. PlayCatch\bin\Debug\net6.0\05. PlayCatch.runtimeconfig.json
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\05. PlayCatch\bin\Debug\net6.0\05. PlayCatch.dll
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\05. PlayCatch\bin\Debug\net6.0\05. PlayCatch.pdb
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\05. PlayCatch\obj\Debug\net6.0\05. PlayCatch.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\05. PlayCatch\obj\Debug\net6.0\05. PlayCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\05. PlayCatch\obj\Debug\net6.0\05. PlayCatch.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\05. PlayCatch\obj\Debug\net6.0\05. PlayCatch.AssemblyInfo.cs
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\05. PlayCatch\obj\Debug\net6.0\05. PlayCatch.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\05. PlayCatch\obj\Debug\net6.0\05. PlayCatch.dll
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\05. PlayCatch\obj\Debug\net6.0\refint\05. PlayCatch.dll
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\05. PlayCatch\obj\Debug\net6.0\05. PlayCatch.pdb
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\05. PlayCatch\obj\Debug\net6.0\05. PlayCatch.genruntimeconfig.cache
+C:\Users\User\source\repos\Exceptions and Error Handling - Lab\05. PlayCatch\obj\Debug\net6.0\ref\05. PlayCatch.dll
