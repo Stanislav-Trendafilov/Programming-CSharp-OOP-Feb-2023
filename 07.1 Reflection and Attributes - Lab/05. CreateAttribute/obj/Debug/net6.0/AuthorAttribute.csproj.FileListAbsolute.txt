@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Reflection and Attributes - Lab\05. CreateAttribute\obj\Debug\net6.0\AuthorAttribute.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Reflection and Attributes - Lab\05. CreateAttribute\obj\Debug\net6.0\AuthorAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Reflection and Attributes - Lab\05. CreateAttribute\obj\Debug\net6.0\AuthorAttribute.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Reflection and Attributes - Lab\05. CreateAttribute\obj\Debug\net6.0\AuthorAttribute.AssemblyInfo.cs
+C:\Users\User\source\repos\Reflection and Attributes - Lab\05. CreateAttribute\obj\Debug\net6.0\AuthorAttribute.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Reflection and Attributes - Lab\05. CreateAttribute\bin\Debug\net6.0\AuthorAttribute.exe
+C:\Users\User\source\repos\Reflection and Attributes - Lab\05. CreateAttribute\bin\Debug\net6.0\AuthorAttribute.deps.json
+C:\Users\User\source\repos\Reflection and Attributes - Lab\05. CreateAttribute\bin\Debug\net6.0\AuthorAttribute.runtimeconfig.json
+C:\Users\User\source\repos\Reflection and Attributes - Lab\05. CreateAttribute\bin\Debug\net6.0\AuthorAttribute.dll
+C:\Users\User\source\repos\Reflection and Attributes - Lab\05. CreateAttribute\bin\Debug\net6.0\AuthorAttribute.pdb
+C:\Users\User\source\repos\Reflection and Attributes - Lab\05. CreateAttribute\obj\Debug\net6.0\AuthorAttribute.dll
+C:\Users\User\source\repos\Reflection and Attributes - Lab\05. CreateAttribute\obj\Debug\net6.0\refint\AuthorAttribute.dll
+C:\Users\User\source\repos\Reflection and Attributes - Lab\05. CreateAttribute\obj\Debug\net6.0\AuthorAttribute.pdb
+C:\Users\User\source\repos\Reflection and Attributes - Lab\05. CreateAttribute\obj\Debug\net6.0\AuthorAttribute.genruntimeconfig.cache
+C:\Users\User\source\repos\Reflection and Attributes - Lab\05. CreateAttribute\obj\Debug\net6.0\ref\AuthorAttribute.dll

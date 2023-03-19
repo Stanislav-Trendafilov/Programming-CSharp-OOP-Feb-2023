@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Reflection and Attributes - Lab\02. HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.exe
+C:\Users\User\source\repos\Reflection and Attributes - Lab\02. HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.deps.json
+C:\Users\User\source\repos\Reflection and Attributes - Lab\02. HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.runtimeconfig.json
+C:\Users\User\source\repos\Reflection and Attributes - Lab\02. HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.dll
+C:\Users\User\source\repos\Reflection and Attributes - Lab\02. HighQualityMistakes\bin\Debug\net6.0\02.HighQualityMistakes.pdb
+C:\Users\User\source\repos\Reflection and Attributes - Lab\02. HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Reflection and Attributes - Lab\02. HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Reflection and Attributes - Lab\02. HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Reflection and Attributes - Lab\02. HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.AssemblyInfo.cs
+C:\Users\User\source\repos\Reflection and Attributes - Lab\02. HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Reflection and Attributes - Lab\02. HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.dll
+C:\Users\User\source\repos\Reflection and Attributes - Lab\02. HighQualityMistakes\obj\Debug\net6.0\refint\02.HighQualityMistakes.dll
+C:\Users\User\source\repos\Reflection and Attributes - Lab\02. HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.pdb
+C:\Users\User\source\repos\Reflection and Attributes - Lab\02. HighQualityMistakes\obj\Debug\net6.0\02.HighQualityMistakes.genruntimeconfig.cache
+C:\Users\User\source\repos\Reflection and Attributes - Lab\02. HighQualityMistakes\obj\Debug\net6.0\ref\02.HighQualityMistakes.dll
