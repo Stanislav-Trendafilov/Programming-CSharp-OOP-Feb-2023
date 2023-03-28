@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Design Patterns - Exercise\01. Prototype Pattern\bin\Debug\net6.0\01. Prototype Pattern.exe
+C:\Users\User\source\repos\Design Patterns - Exercise\01. Prototype Pattern\bin\Debug\net6.0\01. Prototype Pattern.deps.json
+C:\Users\User\source\repos\Design Patterns - Exercise\01. Prototype Pattern\bin\Debug\net6.0\01. Prototype Pattern.runtimeconfig.json
+C:\Users\User\source\repos\Design Patterns - Exercise\01. Prototype Pattern\bin\Debug\net6.0\01. Prototype Pattern.dll
+C:\Users\User\source\repos\Design Patterns - Exercise\01. Prototype Pattern\bin\Debug\net6.0\01. Prototype Pattern.pdb
+C:\Users\User\source\repos\Design Patterns - Exercise\01. Prototype Pattern\obj\Debug\net6.0\01. Prototype Pattern.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Design Patterns - Exercise\01. Prototype Pattern\obj\Debug\net6.0\01. Prototype Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Design Patterns - Exercise\01. Prototype Pattern\obj\Debug\net6.0\01. Prototype Pattern.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Design Patterns - Exercise\01. Prototype Pattern\obj\Debug\net6.0\01. Prototype Pattern.AssemblyInfo.cs
+C:\Users\User\source\repos\Design Patterns - Exercise\01. Prototype Pattern\obj\Debug\net6.0\01. Prototype Pattern.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Design Patterns - Exercise\01. Prototype Pattern\obj\Debug\net6.0\01. Prototype Pattern.dll
+C:\Users\User\source\repos\Design Patterns - Exercise\01. Prototype Pattern\obj\Debug\net6.0\refint\01. Prototype Pattern.dll
+C:\Users\User\source\repos\Design Patterns - Exercise\01. Prototype Pattern\obj\Debug\net6.0\01. Prototype Pattern.pdb
+C:\Users\User\source\repos\Design Patterns - Exercise\01. Prototype Pattern\obj\Debug\net6.0\01. Prototype Pattern.genruntimeconfig.cache
+C:\Users\User\source\repos\Design Patterns - Exercise\01. Prototype Pattern\obj\Debug\net6.0\ref\01. Prototype Pattern.dll

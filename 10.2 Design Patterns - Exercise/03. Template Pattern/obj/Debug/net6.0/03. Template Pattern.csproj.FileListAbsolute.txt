@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Design Patterns - Exercise\03. Template Pattern\bin\Debug\net6.0\03. Template Pattern.exe
+C:\Users\User\source\repos\Design Patterns - Exercise\03. Template Pattern\bin\Debug\net6.0\03. Template Pattern.deps.json
+C:\Users\User\source\repos\Design Patterns - Exercise\03. Template Pattern\bin\Debug\net6.0\03. Template Pattern.runtimeconfig.json
+C:\Users\User\source\repos\Design Patterns - Exercise\03. Template Pattern\bin\Debug\net6.0\03. Template Pattern.dll
+C:\Users\User\source\repos\Design Patterns - Exercise\03. Template Pattern\bin\Debug\net6.0\03. Template Pattern.pdb
+C:\Users\User\source\repos\Design Patterns - Exercise\03. Template Pattern\obj\Debug\net6.0\03. Template Pattern.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Design Patterns - Exercise\03. Template Pattern\obj\Debug\net6.0\03. Template Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Design Patterns - Exercise\03. Template Pattern\obj\Debug\net6.0\03. Template Pattern.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Design Patterns - Exercise\03. Template Pattern\obj\Debug\net6.0\03. Template Pattern.AssemblyInfo.cs
+C:\Users\User\source\repos\Design Patterns - Exercise\03. Template Pattern\obj\Debug\net6.0\03. Template Pattern.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Design Patterns - Exercise\03. Template Pattern\obj\Debug\net6.0\03. Template Pattern.dll
+C:\Users\User\source\repos\Design Patterns - Exercise\03. Template Pattern\obj\Debug\net6.0\refint\03. Template Pattern.dll
+C:\Users\User\source\repos\Design Patterns - Exercise\03. Template Pattern\obj\Debug\net6.0\03. Template Pattern.pdb
+C:\Users\User\source\repos\Design Patterns - Exercise\03. Template Pattern\obj\Debug\net6.0\03. Template Pattern.genruntimeconfig.cache
+C:\Users\User\source\repos\Design Patterns - Exercise\03. Template Pattern\obj\Debug\net6.0\ref\03. Template Pattern.dll
