@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Design Patterns - Lab\02. Facade\bin\Debug\net6.0\02. Facade.exe
+C:\Users\User\source\repos\Design Patterns - Lab\02. Facade\bin\Debug\net6.0\02. Facade.deps.json
+C:\Users\User\source\repos\Design Patterns - Lab\02. Facade\bin\Debug\net6.0\02. Facade.runtimeconfig.json
+C:\Users\User\source\repos\Design Patterns - Lab\02. Facade\bin\Debug\net6.0\02. Facade.dll
+C:\Users\User\source\repos\Design Patterns - Lab\02. Facade\bin\Debug\net6.0\02. Facade.pdb
+C:\Users\User\source\repos\Design Patterns - Lab\02. Facade\obj\Debug\net6.0\02. Facade.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Design Patterns - Lab\02. Facade\obj\Debug\net6.0\02. Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Design Patterns - Lab\02. Facade\obj\Debug\net6.0\02. Facade.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Design Patterns - Lab\02. Facade\obj\Debug\net6.0\02. Facade.AssemblyInfo.cs
+C:\Users\User\source\repos\Design Patterns - Lab\02. Facade\obj\Debug\net6.0\02. Facade.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Design Patterns - Lab\02. Facade\obj\Debug\net6.0\02. Facade.dll
+C:\Users\User\source\repos\Design Patterns - Lab\02. Facade\obj\Debug\net6.0\refint\02. Facade.dll
+C:\Users\User\source\repos\Design Patterns - Lab\02. Facade\obj\Debug\net6.0\02. Facade.pdb
+C:\Users\User\source\repos\Design Patterns - Lab\02. Facade\obj\Debug\net6.0\02. Facade.genruntimeconfig.cache
+C:\Users\User\source\repos\Design Patterns - Lab\02. Facade\obj\Debug\net6.0\ref\02. Facade.dll

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Design Patterns - Lab\03. CommandPattern\obj\Debug\net6.0\03. CommandPattern.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Design Patterns - Lab\03. CommandPattern\obj\Debug\net6.0\03. CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Design Patterns - Lab\03. CommandPattern\obj\Debug\net6.0\03. CommandPattern.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Design Patterns - Lab\03. CommandPattern\obj\Debug\net6.0\03. CommandPattern.AssemblyInfo.cs
+C:\Users\User\source\repos\Design Patterns - Lab\03. CommandPattern\obj\Debug\net6.0\03. CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Design Patterns - Lab\03. CommandPattern\bin\Debug\net6.0\03. CommandPattern.exe
+C:\Users\User\source\repos\Design Patterns - Lab\03. CommandPattern\bin\Debug\net6.0\03. CommandPattern.deps.json
+C:\Users\User\source\repos\Design Patterns - Lab\03. CommandPattern\bin\Debug\net6.0\03. CommandPattern.runtimeconfig.json
+C:\Users\User\source\repos\Design Patterns - Lab\03. CommandPattern\bin\Debug\net6.0\03. CommandPattern.dll
+C:\Users\User\source\repos\Design Patterns - Lab\03. CommandPattern\bin\Debug\net6.0\03. CommandPattern.pdb
+C:\Users\User\source\repos\Design Patterns - Lab\03. CommandPattern\obj\Debug\net6.0\03. CommandPattern.dll
+C:\Users\User\source\repos\Design Patterns - Lab\03. CommandPattern\obj\Debug\net6.0\refint\03. CommandPattern.dll
+C:\Users\User\source\repos\Design Patterns - Lab\03. CommandPattern\obj\Debug\net6.0\03. CommandPattern.pdb
+C:\Users\User\source\repos\Design Patterns - Lab\03. CommandPattern\obj\Debug\net6.0\03. CommandPattern.genruntimeconfig.cache
+C:\Users\User\source\repos\Design Patterns - Lab\03. CommandPattern\obj\Debug\net6.0\ref\03. CommandPattern.dll
